@@ -6,7 +6,7 @@
 ## What it needs to work:
 - This program does utilize ffmpeg in order to change the file types from other audio file types to .mp3, so if you plan to use it with this implementation install ffmpeg using the following link:
 
-![](images/ffmpegDownload.png)
+![Download page for ffmpeg](images/ffmpegDownload.png)
 
 ### Links:
 
