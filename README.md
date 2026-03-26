@@ -10,9 +10,9 @@
 
 ### Links:
 
-[ffmpeg Installation](https://www.ffmpeg.org/)
+- [ffmpeg Installation](https://www.ffmpeg.org/)
 
-[A video guide if needed](https://youtu.be/eRZRXpzZfM4?si=RXmt3MCVXtapoUSj)
+- [A video guide if needed](https://youtu.be/eRZRXpzZfM4?si=RXmt3MCVXtapoUSj)
 
 ## How to run:
 - In order to run this program you'll need to use Visual Studio Code or some other adjacent program. Once loaded the program itself should be able to run just by hitting run.
