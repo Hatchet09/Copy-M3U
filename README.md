@@ -6,7 +6,7 @@
 ## What it needs to work:
 - This program does utilize ffmpeg in order to change the file types from other audio file types to .mp3, so if you plan to use it with this implementation install ffmpeg using the following link:
 
-![](https://www.thestreamingcompany.com/secure/contentPORT/uploads/images/2000px-FFmpeg_Logo.png)
+![](images/ffmpegDownload.png)
 
 ### Links:
 
@@ -19,7 +19,8 @@
 
 ### Potential Issues
 - Note that if you try to run it at a directory above "C:\" it wont be able to access the other elements as a side effect (for example if you are in "C:\Users\jackt\Documents\Programs" you won't be able to access any of the 
-files outside of the Programs directory. So make sure that before you run the program go to the integrated terminal in VS Code where you are going to run the program and use the command `cd ..` until
-the directory the terminal is in is the lowest possible directory, "C:\", for access to all files on that drive.
+files outside of the Programs directory. So make sure that before you run the program go to the integrated terminal in VS Code where you are going to run the program and use the command `cd ..` or use `cd "C:\" to so that when running the program it'll have access to all files on that drive.
+
+![What you'll need to do in the terminal](images/terminalCommands.png)
 
 - Another thing to note is that you will have to write the file directory to the powershell program in order for it to run properly (don't forget to use quotation marks if one of the folders in the directory path has a space in it).
